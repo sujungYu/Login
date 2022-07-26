@@ -1,4 +1,4 @@
-# Login_Mock-up
+# Login
 offco 프로젝트 2주차
 
 ## Short Account
